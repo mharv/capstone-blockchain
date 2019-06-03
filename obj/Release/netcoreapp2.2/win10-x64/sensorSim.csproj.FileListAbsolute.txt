@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.exe
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.deps.json
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.runtimeconfig.json
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.runtimeconfig.dev.json
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.dll
+C:\Users\user\Desktop\capstone\sensorSim\bin\Release\netcoreapp2.2\win10-x64\sensorSim.pdb
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.csprojAssemblyReference.cache
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.AssemblyInfo.cs
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.dll
+C:\Users\user\Desktop\capstone\sensorSim\obj\Release\netcoreapp2.2\win10-x64\sensorSim.pdb
